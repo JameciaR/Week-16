@@ -1,4 +1,4 @@
-const ENDPOINT = "https://63432edbba4478d478497a6d.mockapi.io/coffee";
+const ENDPOINT = "https://63432edbba4478d478497a6d.mockapi.io/candle";
 
 class API {
   get = async () => {
